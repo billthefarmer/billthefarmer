@@ -1,3 +1,5 @@
+[Snarks](https://github.com/billthefarmer/snarks)
+
 ![Snarks](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/Snarks.gif)
 
 <!--
