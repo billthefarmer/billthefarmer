@@ -1,4 +1,4 @@
-### Hi there 👋
+![Snarks](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/Snarks.gif)
 
 <!--
 **billthefarmer/billthefarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
