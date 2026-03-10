@@ -1,4 +1,4 @@
-# Note: These apps are no longer being maintained. Please feel free to fork or whatever.
+# Note: Some of these apps are no longer being maintained. Please feel free to fork or whatever.
 
 [Snarks](https://github.com/billthefarmer/snarks)
 
